@@ -17,7 +17,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-## Hi!  
+## Hiiiiii~ !!!  
 I am a student at the School of Management, University of Science and Technology of China (USTC).  
 
 I am a researcher in Information Systems. My research focuses on causal inference, large language models (LLMs), and science of science.
@@ -27,23 +27,22 @@ I am a researcher in Information Systems. My research focuses on causal inferenc
 
 <span class='anchor' id='research-interests'></span>
 # 💡 Research Interests
-- **Substantive:** large language models, science of science, academic paper
-- **Methodological:** causal inference, machine learning
+large language models, science of science, academic paper, causal inference, machine learning
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Working Papers
-[1]**Liu Jiaqi**, Xue Hanbing, Wang Lizheng, Li Yongjun, Tan Yong. Bridging language barriers: Causal evidence on the scholarly impact of LLM-assisted writing 
+[1] **Liu Jiaqi**, Xue Hanbing, Wang Lizheng, Li Yongjun, Tan Yong. Bridging language barriers: Causal evidence on the scholarly impact of LLM-assisted writing 
 
-[2]**Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help and hurt: Divergent effects of LLMs-assisted writing on the impact of research papers
+[2] **Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help and hurt: Divergent effects of LLMs-assisted writing on the impact of research papers
 
-[3]**Liu Jiaqi**. From Structure to Scrutiny: How LLM-assisted Writing Reshapes Manuscripts and Peer Review
+[3] **Liu Jiaqi**. From Structure to Scrutiny: How LLM-assisted Writing Reshapes Manuscripts and Peer Review
 
 
 # 📝 Publications 
-[1]**Liu Jiaqi**, Wang Xiaoxue, Liang Xiao (2025). Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective. **Information Processing & Management**
+[1] **Liu Jiaqi**, Wang Xiaoxue, Liang Xiao (2025). Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective. **Information Processing & Management**
 
-[2]**Liu Jiaqi**, Wen Haitao, Wen Rong, Zhang Wenjue, Cui Yun, Wang Heng (2024). Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study. **International Journal of Sustainability in Higher Education**
+[2] **Liu Jiaqi**, Wen Haitao, Wen Rong, Zhang Wenjue, Cui Yun, Wang Heng (2024). Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study. **International Journal of Sustainability in Higher Education**
 
 
 <span class='anchor' id='honors-and-awards'></span>
@@ -52,7 +51,7 @@ National Scholarship (2022, 2023, 2025)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China (USTC), 2024-
+- **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China (USTC), 2024-present
 - **B.S.**, Big Data Management and Application, Jilin University, 2020-2024
 
 
