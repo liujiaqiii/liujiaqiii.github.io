@@ -7,6 +7,8 @@
 
 # Site Settings
 title                    : "Liu Jiaqi"
+description              : "jiaqi.liu@mail.ustc.edu.cn"
+repository               : "liujiaqiii/liujiaqiii.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +24,6 @@ author:
   name             : "Liu Jiaqi"
   avatar           : "images/android-chrome-512x512.png"
   googlescholar    : 
-  email            : "jiaqi.liu@mail.ustc.edu.cn"
 
 
 # Reading Files
