@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Liu Jiaqi"
+excerpt: "Liu Jiaqi at USTC"
 author_profile: true
+description: ""
+keywords: ""
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,43 +17,46 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## Hi!  
+I am a student at the School of Management, University of Science and Technology of China (USTC).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a researcher in Information Systems. My research focuses on causal inference, large language models (LLMs), and science of science.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+🤝 I warmly welcome collaboration opportunities with scholars who share similar research interests. Please feel free to reach out.
+
+<span class='anchor' id='research-interests'></span>
+# 💡 Research Interests
+- **Substantive:** large language models, science of science, academic paper
+- **Methodological:** causal inference, machine learning
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Selected Working Papers
+[1]**Liu Jiaqi**, Xue Hanbing, Wang Lizheng, Li Yongjun, Tan Yong. Bridging language barriers: Causal evidence on the scholarly impact of LLM-assisted writing 
+
+[2]**Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help and hurt: Divergent effects of LLMs-assisted writing on the impact of research papers
+
+[3]**Liu Jiaqi**. From Structure to Scrutiny: How LLM-assisted Writing Reshapes Manuscripts and Peer Review
+
 
 # 📝 Publications 
+[1]**Liu Jiaqi**, Wang Xiaoxue, Liang Xiao (2025). Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective. **Information Processing & Management**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[2]**Liu Jiaqi**, Wen Haitao, Wen Rong, Zhang Wenjue, Cui Yun, Wang Heng (2024). Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study. **International Journal of Sustainability in Higher Education**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+National Scholarship (2022, 2023, 2025)
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China (USTC), 2024-
+- **B.S.**, Big Data Management and Application, Jilin University, 2020-2024
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='journal-reviewer'></span>
+# 📋 Ad hoc reviewer for journals
+- Research Policy 
+- Information Processing & Management 
