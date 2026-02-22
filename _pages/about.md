@@ -36,7 +36,7 @@ large language models, science of science, academic paper, causal inference, mac
 
 [2] **Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help and hurt: Divergent effects of LLMs-assisted writing on the impact of research papers
 
-[3] **Liu Jiaqi**. From Structure to Scrutiny: How LLM-assisted Writing Reshapes Manuscripts and Peer Review
+[3] **Liu Jiaqi**. From structure to scrutiny: How LLM-assisted writing reshapes manuscripts and peer review
 
 
 # 📝 Publications 
@@ -51,8 +51,8 @@ National Scholarship (2022, 2023, 2025)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China (USTC), 2024-present
-- **B.S.**, Big Data Management and Application, Jilin University, 2020-2024
+- **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China, 2024-present
+- **B.S.**, Big Data Management and Application/Finance, Jilin University, 2020-2024
 
 
 <span class='anchor' id='journal-reviewer'></span>
