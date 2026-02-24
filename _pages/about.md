@@ -23,7 +23,7 @@ I am a student at the School of Management, University of Science and Technology
 I am a researcher in Information Systems. My research focuses on causal inference, large language models (LLMs), and science of science.
 
 
-🤝 I warmly welcome collaboration opportunities with scholars who share similar research interests. Please feel free to reach out.
+🤝 I warmly welcome collaboration opportunities with scholars who share similar research interests. Please feel free to reach out (jiaqi.liu@mail.ustc.edu.cn).
 
 <span class='anchor' id='research-interests'></span>
 # 💡 Research Interests
