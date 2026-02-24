@@ -34,7 +34,7 @@ large language models, science of science, academic paper, causal inference, mac
 # 📝 Selected Working Papers
 [1] **Liu Jiaqi**, Xue Hanbing, Wang Lizheng, Li Yongjun, Tan Yong. Bridging language barriers: Causal evidence on the scholarly impact of LLM-assisted writing 
 
-[2] **Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help and hurt: Divergent effects of LLMs-assisted writing on the impact of research papers
+[2] **Liu Jiaqi**, Xue Hanbing, Du Qianzhou, Li Yongjun. When LLMs help or harm scientific impact: Cognitive load pathways in academic writing
 
 [3] **Liu Jiaqi**. From structure to scrutiny: How LLM-assisted writing reshapes manuscripts and peer review
 
@@ -46,7 +46,7 @@ large language models, science of science, academic paper, causal inference, mac
 
 
 <span class='anchor' id='honors-and-awards'></span>
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 National Scholarship (2022, 2023, 2025)
 
 <span class='anchor' id='educations'></span>
