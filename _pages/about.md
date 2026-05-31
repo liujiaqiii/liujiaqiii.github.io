@@ -22,6 +22,13 @@ I am a PhD student at the joint program between University of Science and Techno
 
 I am a researcher in Information Systems and Data Science. My research focuses on causal inference, large language models (LLMs), and science of science.
 
+<span class='anchor' id='news'></span>
+# Recent News
+- **[May 2026]** I start the joint PhD. program bewteen USTC and CityU, joint supervised by Prof.Yongjun Li (at USTC) and Prof.Hao Peng (at CityU).
+- **[Oct 2025]** I was honored to receive the National Scholarship for the third time!
+- **[Jan 2025]** Our paper on retracted papers in biomedicine was accepted by *Information Processing & Management*! 
+
+
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 large language models, science of science, academic paper, causal inference, machine learning
