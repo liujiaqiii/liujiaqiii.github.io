@@ -25,7 +25,7 @@ My research examines how large language models reshape scientific work, scholarl
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- **[May 2026]** I started the joint Ph.D. program between USTC and CityU, jointly supervised by Prof. Yongjun Li (at USTC) and Prof. Hao Peng (at CityU).
+- **[May 2026]** I started the joint Ph.D. program between USTC and CityU, jointly supervised by [Prof. Yongjun Li](https://bs.ustc.edu.cn/chinese/profile-70.html) (at USTC) and [Prof. Hao Peng](https://haoopeng.github.io/) (at CityU).
 - **[Oct 2025]** I was honored to receive the National Scholarship for the third time!
 - **[Mar 2025]** Our paper on retracted papers in biomedicine was accepted by *Information Processing & Management*! 
 
@@ -45,23 +45,13 @@ Generative AI and knowledge work, AI-mediated scholarly communication, causal in
 
 
 # 📚 Publications 
-<p>
-  [1] <strong>Jiaqi Liu</strong>, Xiaoxue Wang, Xiao Liang (2025).
-  <a href="https://doi.org/10.1016/j.ipm.2025.104176" target="_blank" rel="noopener noreferrer">
-    Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective.
-  </a>
-  <strong>Information Processing &amp; Management</strong>.
-</p>
 
-<p>
-  [2] <strong>Jiaqi Liu</strong>, , Haitao Wen, Rong Wen, Wenjue Zhang, Yun Cui, Heng Wang (2024).
-  <a href="https://doi.org/10.1108/IJSHE-02-2023-0067" target="_blank" rel="noopener noreferrer">
-    Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study.
-  </a>
-  <strong>International Journal of Sustainability in Higher Education</strong>.
-</p>
+[1] **Jiaqi Liu**, Xiaoxue Wang, Xiao Liang (2025). [Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective.](https://doi.org/10.1016/j.ipm.2025.104176) **Information Processing & Management**.
+
+[2] **Jiaqi Liu**, Haitao Wen, Rong Wen, Wenjue Zhang, Yun Cui, Heng Wang (2024). [Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study.](https://doi.org/10.1108/IJSHE-02-2023-0067) **International Journal of Sustainability in Higher Education**.
 
 <span class='anchor' id='educations'></span>
+
 # 🎓 Education
 - **Ph.D.**, Data Science, City University of Hong Kong, 2026-present
 - **M.S.-Ph.D.**, Management Science and Engineering, University of Science and Technology of China, 2024-present
