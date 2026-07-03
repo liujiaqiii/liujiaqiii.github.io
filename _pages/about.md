@@ -18,20 +18,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 ## Hi there! I am Jiaqi Liu.  
-I am a PhD student at the joint program between University of Science and Technology of China (USTC) and City University of Hong Kong (CityU).  
 
-I am a researcher in Information Systems and Data Science. My research focuses on causal inference, large language models (LLMs), and science of science.
+I am a Ph.D. student in the joint program between the University of Science and Technology of China (USTC) and City University of Hong Kong (CityU). 
+
+My research examines how large language models reshape scientific work, scholarly communication, and academic evaluation. Methodologically, I combine large-scale digital trace data, machine learning, and causal inference to study how emerging technologies affect knowledge production and scientific impact.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- **[May 2026]** I start the joint PhD. program bewteen USTC and CityU, joint supervised by Prof.Yongjun Li (at USTC) and Prof.Hao Peng (at CityU).
+- **[May 2026]** I started the joint Ph.D. program between USTC and CityU, jointly supervised by Prof. Yongjun Li (at USTC) and Prof. Hao Peng (at CityU).
 - **[Oct 2025]** I was honored to receive the National Scholarship for the third time!
-- **[Jan 2025]** Our paper on retracted papers in biomedicine was accepted by *Information Processing & Management*! 
+- **[Mar 2025]** Our paper on retracted papers in biomedicine was accepted by *Information Processing & Management*! 
 
 
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
-large language models, science of science, academic paper, causal inference, machine learning
+Generative AI and knowledge work, AI-mediated scholarly communication, causal inference, machine learning
 
 <span class='anchor' id='publications'></span>
 
@@ -44,9 +45,21 @@ large language models, science of science, academic paper, causal inference, mac
 
 
 # 📚 Publications 
-[1] **Jiaqi Liu**, Xiaoxue Wang, Xiao Liang (2025). Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective. **Information Processing & Management**
+<p>
+  [1] <strong>Jiaqi Liu</strong>, Xiaoxue Wang, Xiao Liang (2025).
+  <a href="https://doi.org/10.1016/j.ipm.2025.104176" target="_blank" rel="noopener noreferrer">
+    Bibliometric feature identification and analysis of retracted papers in biomedicine: An interpretable machine learning perspective.
+  </a>
+  <strong>Information Processing &amp; Management</strong>.
+</p>
 
-[2] **Jiaqi Liu**, Haitao Wen, Rong Wen, Wenjue Zhang, Yun Cui, Heng Wang (2024). Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study. **International Journal of Sustainability in Higher Education**
+<p>
+  [2] <strong>Jiaqi Liu</strong>, , Haitao Wen, Rong Wen, Wenjue Zhang, Yun Cui, Heng Wang (2024).
+  <a href="https://doi.org/10.1108/IJSHE-02-2023-0067" target="_blank" rel="noopener noreferrer">
+    Influence mechanism of undergraduate students’ green innovation behavior: AMO perspective and multilevel empirical study.
+  </a>
+  <strong>International Journal of Sustainability in Higher Education</strong>.
+</p>
 
 <span class='anchor' id='educations'></span>
 # 🎓 Education
