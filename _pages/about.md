@@ -19,20 +19,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ## Hi there! I am Jiaqi Liu.  
 
-I am a Ph.D. student in the joint program between the University of Science and Technology of China (USTC) and City University of Hong Kong (CityU). 
+I am a Ph.D. student in the joint program between the University of Science and Technology of China (USTC) and City University of Hong Kong (CityU), jointly supervised by [Prof. Yongjun Li](https://bs.ustc.edu.cn/chinese/profile-70.html) at USTC and [Prof. Hao Peng](https://haoopeng.github.io/) at CityU.
 
 My research examines how large language models reshape scientific work, scholarly communication, and academic evaluation. Methodologically, I combine large-scale digital trace data, machine learning, and causal inference to study how emerging technologies affect knowledge production and scientific impact.
 
+
 <span class='anchor' id='news'></span>
 # 🔥 News
-- **[May 2026]** I started the joint Ph.D. program between USTC and CityU, jointly supervised by [Prof. Yongjun Li](https://bs.ustc.edu.cn/chinese/profile-70.html) (at USTC) and [Prof. Hao Peng](https://haoopeng.github.io/) (at CityU).
+- **[May 2026]** I started the joint Ph.D. program between USTC and CityU.
 - **[Oct 2025]** I was honored to receive the National Scholarship for the third time!
 - **[Mar 2025]** Our paper on retracted papers in biomedicine was accepted by *Information Processing & Management*! 
 
 
 <span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
-Generative AI and knowledge work, AI-mediated scholarly communication, causal inference, machine learning
+generative AI and knowledge work, AI-mediated scholarly communication, causal inference, machine learning
 
 <span class='anchor' id='publications'></span>
 
@@ -42,6 +43,8 @@ Generative AI and knowledge work, AI-mediated scholarly communication, causal in
 [2] **Jiaqi Liu**, Hanbing Xue, Qianzhou Du, Yongjun Li. When LLMs help or harm scientific impact: Cognitive load pathways in academic writing
 
 [3] **Jiaqi Liu**. From structure to scrutiny: How LLM-assisted writing reshapes manuscripts and peer review
+
+[4] Zhuoxian Lin, **Jiaqi Liu**\*. When textual signals lose value: Generative AI and scientific attention allocation
 
 
 # 📚 Publications 
